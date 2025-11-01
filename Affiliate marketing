@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Aferelle® Blue Cut Glasses protect your eyes from screen glare, improve sleep, and offer UV protection. Grab your pair at 87% OFF!">
+  <title>Aferelle® Blue Cut Glasses – Limited Time Deal 87% OFF</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+    body {
+      background-color: #f7f9fc;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #0072ff, #00c6ff);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    header h1 {
+      font-size: 1.9rem;
+      margin-bottom: 10px;
+    }
+    .btn {
+      display: inline-block;
+      background-color: #ff9900;
+      color: white;
+      text-decoration: none;
+      padding: 12px 25px;
+      border-radius: 8px;
+      margin-top: 15px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .btn:hover { background-color: #e68a00; }
+
+    section { padding: 40px 20px; text-align: center; }
+
+    .product-img img {
+      width: 90%;
+      max-width: 400px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      margin: 20px 0;
+    }
+
+    .features {
+      background: #fff;
+      border-radius: 15px;
+      padding: 30px;
+      margin: 20px auto;
+      max-width: 800px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      text-align: left;
+    }
+    .features li { margin: 10px 0; padding-left: 25px; position: relative; }
+    .features li::before { content: "✔️"; position: absolute; left: 0; }
+
+    .price, .reviews {
+      background-color: #fff;
+      padding: 25px;
+      border-radius: 15px;
+      margin: 30px auto;
+      max-width: 700px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+    .reviews { background-color: #eef6ff; }
+
+    /* 4-card grid section */
+    .image-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .image-grid img {
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+      transition: transform 0.3s;
+    }
+    .image-grid img:hover { transform: scale(1.05); }
+
+    footer {
+      background-color: #111;
+      color: #ccc;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9rem;
+    }
+    footer a { color: #ff9900; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🕶️ Aferelle® Blue Cut Computer Glasses</h1>
+    <p>Protect your eyes, improve sleep & stay stylish – Now at 87% OFF!</p>
+    <a href="https://amzn.in/d/8J1TsX4?tag=gauravchavan1-21" class="btn" target="_blank">Buy Now on Amazon</a>
+  </header>
+
+  <section class="product-img">
+    <img src="https://m.media-amazon.com/images/I/61RjtdvOlNL._SL1500_.jpg" alt="Aferelle Blue Cut Glasses">
+  </section>
+
+  <section class="features">
+    <h2>✨ Why Choose Aferelle Blue Cut Glasses?</h2>
+    <ul>
+      <li>Blocks harmful blue light from mobile, laptop, and TV.</li>
+      <li>Promotes better sleep and reduces eye strain.</li>
+      <li>Anti-glare and UV protection for maximum comfort.</li>
+      <li>Perfect for gaming, studying, or office work.</li>
+      <li>Unisex design – suitable for both men & women.</li>
+      <li>Made with durable Columbia Resin CR Lens material.</li>
+    </ul>
+  </section>
+
+  <!-- 🔥 4 Card Image Grid Section -->
+  <section>
+    <h2>🖼️ Product Gallery</h2>
+    <div class="image-grid">
+      <img src="https://drive.google.com/uc?export=view&id=1KsYGYZfL6Bp6_TziLtmUWZMxB-CANumy" alt="Casio Image 1">
+      <img src="https://drive.google.com/uc?export=view&id=1JKctx_srOTfbAFGyHRMkDORuZ3Wi_-Vw" alt="Casio Image 2">
+      <img src="https://drive.google.com/uc?export=view&id=1o_BahxUwHwW9BWbCdsst08hKeK7B_gvY" alt="Casio Image 3">
+      <img src="https://drive.google.com/uc?export=view&id=1srG4QPq_hDQ4mz7vUXSpXa38cXsaYvM1" alt="Casio Image 4">
+    </div>
+  </section>
+
+  <section class="price">
+    <h2>💰 Limited-Time Deal – 87% OFF</h2>
+    <p><strong>M.R.P.:</strong> ₹2,999</p>
+    <h3 style="color: green;">Now Only ₹399</h3>
+    <p>+ Free Delivery | Upto ₹80 Cashback | Top Rated Brand</p>
+    <a href="https://amzn.in/d/8J1TsX4?tag=gauravchavan1-21" class="btn" target="_blank">👉 Grab This Deal</a>
+  </section>
+
+  <section class="reviews">
+    <h2>⭐ What Customers Say</h2>
+    <p>⭐ 4.2/5 (6,500+ Ratings)</p>
+    <p>“Stylish & lightweight – perfect for long screen hours.”</p>
+    <p>“Reduces glare and helps me sleep better after gaming!”</p>
+    <p>“Unbeatable quality for ₹399!”</p>
+  </section>
+
+  <footer>
+    <p>Affiliate link by <strong>Gaurav Chavan</strong> | The Diploma Engineer</p>
+    <p>© 2025 | <a href="https://amzn.in/d/8J1TsX4?tag=gauravchavan1-21" target="_blank">Amazon Affiliate Product</a></p>
+  </footer>
+
+</body>
+</html>
